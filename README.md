@@ -191,7 +191,9 @@ Your final course grade will be based on the following components:
 Throughout the semester, typically during most class sessions, students will complete short polls, submit responses through UB-supported links, and participate in other learning activities designed to reinforce key concepts and promote active engagement.
 
   > ⚠️ **In-Class Activity Policy**  
+
   > 🚫 In-class activities must be completed during the class session and cannot be completed afterward. A missed activity will therefore receive a zero.
+  
   > ✅ To provide flexibility for occasional absences or unexpected circumstances, the **four lowest in-class activity grades will be dropped** when calculating this portion of the final grade.
 
 ---
