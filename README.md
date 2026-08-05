@@ -282,26 +282,26 @@ Then the final percentage is: **(95 × 15%) + (88 × 20%) + (82 × 15%) + (86 ×
 
 ## 📅 Course Schedule
 
-**Legend:** 🟢 HW Due 🟧 Review 🟥 Exam 🟣 Break 🔵 Prerequisite Review
+**Legend:** 🟢 HW Due 🟧 Review 🟥 Exam 🟣 Break 🔵 Refresher
 
 | Week | Dates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Weekly Topic | Reading Assignment | Monday | Wednesday | Friday |
 |------|-------|--------------|--------------------|--------|-----------|--------|
-| **1** | **Aug 24<br>Aug 28** | Intro to OM | Chapter 1 (pp. 1–9);<br>🔵 Prerequisite Review: Section 1–5 | — | — | — |
+| **1** | **Aug 24<br>Aug 28** | Intro to OM | Chapter 1 (pp. 1–9);<br>🔵 Refresher: Section 1–5 | — | — | — |
 | **2** | **Aug 31<br>Sep 04** | Process Analysis | Chapters 2–3 (pp. 10–19; 32–44) | — | — | — |
 | **3** | **Sep 07<br>Sep 11** | Process Analysis;<br>Little's Law | Chapters 2–3 (pp. 10–19; 32–44) | 🟣 Labor Day — No Class | — | 🟢 HW1 Due |
-| **4** | **Sep 14<br>Sep 18** | Labor Cost Analysis | Chapter 4 (pp. 56–80);<br>🔵 Prerequisite Review: Section 6–9 | — | — | — |
+| **4** | **Sep 14<br>Sep 18** | Labor Cost Analysis | Chapter 4 (pp. 56–80);<br>🔵 Refresher: Section 6–9 | — | — | — |
 | **5** | **Sep 21<br>Sep 25** | Quality Management | Chapter 7 (pp. 128–135; 138–149) | — | — | 🟢 HW2 Due |
-| **6** | **Sep 28<br>Oct 02** | Variability in Processes | Section 9.1–9.5 (pp. 171–183);<br>🔵 Prerequisite Review: Section 10–11 | — | — | — |
+| **6** | **Sep 28<br>Oct 02** | Variability in Processes | Section 9.1–9.5 (pp. 171–183);<br>🔵 Refresher: Section 10–11 | — | — | — |
 | **7** | **Oct 05<br>Oct 09** | Variability in Processes | Section 9.6–9.10 (pp. 184–190; 194–202) | — | 🟧 Midterm 1 Review | 🟥 Midterm 1 |
 | **8** | **Oct 12<br>Oct 16** | Setup Times, Batching, EOQ | Chapter 5 (pp. 81–110) | 🟣 Fall Break — No Class | — | — |
-| **9** | **Oct 19<br>Oct 23** | EOQ & Newsvendor | Chapter 14 (pp. 293–296; 307–312);<br>🔵 Prerequisite Review: Section 12–15 | — | — | 🟢 HW3 Due |
+| **9** | **Oct 19<br>Oct 23** | EOQ & Newsvendor | Chapter 14 (pp. 293–296; 307–312);<br>🔵 Refresher: Section 12–15 | — | — | 🟢 HW3 Due |
 | **10** | **Oct 26<br>Oct 30** | Newsvendor & Managerial Levers | Chapter 14 (pp. 296–302; p. 314);<br>Chapter 15 (pp. 326–335) | — | 🟢 HW4 Due | 🟧 Midterm 2 Review |
-| **11** | **Nov 02<br>Nov 06** | Forecasting | Chapter 13 (pp. 264–281);<br>🔵 Prerequisite Review: Section 16–19 | 🟥 Midterm 2 | — | — |
+| **11** | **Nov 02<br>Nov 06** | Forecasting | Chapter 13 (pp. 264–281);<br>🔵 Refresher: Section 16–19 | 🟥 Midterm 2 | — | — |
 | **12** | **Nov 09<br>Nov 13** | Forecasting Trend and Seasonality | Chapter 13 (pp. 282–287) | — | — | — |
 | **13** | **Nov 16<br>Nov 20** | Project Management | Chapter 13 (pp. 282–287);<br>Chapter 12 | — | — | — |
 | **14** | **Nov 23<br>Nov 27** | Project Management | Chapter 12 | — | 🟣 Thanksgiving Break — No Class | 🟣 Thanksgiving Break — No Class |
 | **15** | **Nov 30<br>Dec 04** | AI in Operations Management | Chapter 12 | — | 🟢 HW5 Due | — |
-| **16** | **Dec 07<br>** | Course Review & Exam Preparation | Course review; last day of classes;<br>🔵 Prerequisite Review: Part IV | 🟧 Final Exam Review<br>🟢 HW6 Due | — | — |
+| **16** | **Dec 07<br>** | Course Review & Exam Preparation | Course review; last day of classes;<br>🔵 Refresher: Part IV | 🟧 Final Exam Review<br>🟢 HW6 Due | — | — |
 | **17** | **Dec 11<br>** | Final Exam Week | — | — | — | 🟥 **Final Exam:<br> 11:45 AM–2:45 PM,<br> Knox 109** |
 
 > 🔵 **Mathematical & Statistical Refresher:** Please review the corresponding refresher sections before the weeks in which those quantitative tools are first used in class. The refresher is available at [UB-F26-Math-Stats-Refresher](https://github.com/parshanpakiman/UB-F26-Math-Stats-Refresher).
