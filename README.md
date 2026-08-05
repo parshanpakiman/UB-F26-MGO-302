@@ -47,8 +47,8 @@ University at Buffalo School of Management
 **Mingyuan Yuan**  
 Doctoral Student, Operations Management and Strategy  
 - 📧 Email: [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)
-- 🕒 Office Hours:  Only by appointment
-  - 🔗 Virtual:     [ https://buffalo.zoom.us/j/98969375035](https://buffalo.zoom.us/j/98969375035)
+- 🕒 Office Hours: By appointment
+  - 🔗 Virtual: [https://buffalo.zoom.us/j/98969375035](https://buffalo.zoom.us/j/98969375035)
 
 
 ## 📌 Logistics
@@ -86,9 +86,7 @@ By the end of the semester, students will be able to:
 ## 📘 Textbook
 **Required Textbook:** Cachon, Gérard, and Christian Terwiesch. *Matching Supply with Demand: An Introduction to Operations Management*. 5th ed., McGraw Hill, 2023.
 
-
-**Supporting Reference:** Simpson, Natalie C., and Philip G. Hancock. *Practical Operations Management*. 2nd ed., Hercher Publishing, 2017.  
-
+**Required Textbook:**  Simpson, Natalie C., and Philip G. Hancock. *Practical Operations Management*. 2nd ed., Hercher Publishing, 2017.  
 
 **Notes:** Multiple purchase and rental options may be available. Students may choose the most cost-effective format, provided it is the required edition and includes the assigned chapters and pages.  
 
@@ -96,7 +94,7 @@ By the end of the semester, students will be able to:
 ## 📘 Prerequisite or Co-requisite
 - **Prerequisite:** MGQ 201  
 - **Co-requisite:** Completion of or concurrent enrollment in MGG 102 or MGG 150  
-- **Important:** Students are responsible for reviewing the material in the [Mathematical & Statistical Refresher](https://github.com/parshanpakiman/UB-F26-Math-Stats-Refresher). The basic tools covered in this refresher are considered prerequisite knowledge and may not be reviewed in class.
+> **Important:** Students are responsible for reviewing the material in the [Mathematical & Statistical Refresher](https://github.com/parshanpakiman/UB-F26-Math-Stats-Refresher). The basic tools covered in this refresher are considered prerequisite knowledge and may not be reviewed in class.
 
 ## 💻 Learning Platforms and Technology
 
@@ -138,7 +136,7 @@ Generative AI tools such as ChatGPT, Claude, and Gemini may be used to support l
 
 Academic integrity is essential to your learning and to the standards of the University at Buffalo. Students are expected to complete all work honestly, follow assignment-specific instructions, and clearly distinguish their own work from the ideas or contributions of others.
 
-Unless an assignment is explicitly identified as an **in-class group activity**, all homework assignments and exams must be completed independently. Group activities may be completed and submitted collaboratively only as directed by the instructor. Sharing answers, copying another person’s work, using unauthorized resources, or submitting work created by another person or an AI system as your own may constitute academic misconduct.
+Unless an activity is explicitly identified as collaborative, **all** homework assignments, in-class activities, and exams must be completed independently. Collaborative activities may be completed and submitted jointly only when explicitly directed by the instructor. Sharing answers, copying another person’s work, using unauthorized resources, or submitting work created by another person or an AI system as your own may constitute academic misconduct.
 
 Students are responsible for understanding and following UB’s academic-integrity policies. Additional information is available in the [UB Undergraduate Handbook](http://mgt.buffalo.edu/programs/undergrad/handbooks/handbook).
 
@@ -206,9 +204,13 @@ There will be **six homework assignments**.
 
 > ⚠️ **Homework Assignment Policy:**  Late submissions and extensions are **not permitted**. The submission link will automatically close at the deadline, and any missed assignment will receive a grade of zero. To provide flexibility for unexpected circumstances, the **two lowest homework grades will be dropped**. Only the **four highest homework grades** will count toward the final course grade. Because the two lowest homework grades are dropped, this policy applies to all missed or late homework submissions, regardless of the reason.
 
+
 - Homework must be submitted through **UB Learns** by **11:00 PM** on the posted due date.
-- Assignments must be submitted in **PDF format**, unless otherwise specified.
+- Submit all homework as **a single PDF file** through **UB Learns**.
+- Clearly label each question and organize your answers in the same order as the assignment.
 - Students are expected to clearly **show all work** to receive full or partial credit.
+- Ensure your submission is complete and readable.
+
 
 ---
 
@@ -300,7 +302,7 @@ Then the final percentage is: **(95 × 15%) + (88 × 20%) + (82 × 15%) + (86 ×
 | **12** | **Nov 09<br>Nov 13** | Forecasting Trend and Seasonality | Chapter 13 (pp. 282–287) | — | — | — |
 | **13** | **Nov 16<br>Nov 20** | Project Management | Chapter 13 (pp. 282–287);<br>Chapter 12 | — | — | — |
 | **14** | **Nov 23<br>Nov 27** | Project Management | Chapter 12 | — | 🟣 Thanksgiving Break — No Class | 🟣 Thanksgiving Break — No Class |
-| **15** | **Nov 30<br>Dec 04** | AI in Operations Management | Chapter 12 | — | 🟢 HW5 Due | — |
+| **15** | **Nov 30<br>Dec 04** | Emerging Topics in Operations Management | Chapter 12 | — | 🟢 HW5 Due | — |
 | **16** | **Dec 07<br>** | Course Review & Exam Preparation | Course review; last day of classes | 🟧 Final Exam Review<br>🟢 HW6 Due | — | — |
 | **17** | **Dec 11<br>** | Final Exam Week | — | — | — | 🟥 **Final Exam:<br> 11:45 AM–2:45 PM,<br> Knox 109** |
 
