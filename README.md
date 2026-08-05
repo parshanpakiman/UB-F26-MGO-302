@@ -9,20 +9,21 @@
 
 ## 📑 Table of Contents
 - [👨‍🏫 Instructor](#-instructor)
-- [🧑‍🏫 Student/Teaching Assistant](#-studentteaching-assistant)
+- [🧑‍🏫 Teaching Assistant](#-teaching-assistant)
 - [📌 Logistics](#-logistics)
 - [📚 About the Course](#-about-the-course)
 - [📘 Textbook](#-textbook)
 - [📘 Prerequisite or Co-requisite](#-prerequisite-or-co-requisite)
-- [💻 Course Technology](#-course-technology)
+- [💻 Learning Platforms and Technology](#-learning-platforms-and-technology)
   - [UB Learns](#ub-learns)
   - [Zoom](#zoom)
+  - [Microsoft Excel](#microsoft-excel)
   - [Generative AI](#generative-ai)
-- [📢 Student Responsibilities](#-student-responsibilities)
 - [🧾 Academic Integrity](#-academic-integrity)
 - [⚠️ Course Materials Policy](#️-course-materials-policy)
 - [🌍 Diversity and Inclusion](#-diversity-and-inclusion)
 - [🏛️ Campus Resources](#️-campus-resources)
+- [📢 Student Responsibilities](#-student-responsibilities)
 - [📊 Grading Components](#-grading-components)
 - [📅 Course Schedule](#-course-schedule)
 - [📝 Homework Topics](#-homework-topics)
@@ -37,17 +38,18 @@ University at Buffalo School of Management
 - 📍 Office Location: 343 Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
 - 📧 Email: [ParshanP@Buffalo.edu](mailto:parshanp@buffalo.edu)  
 - 🌐 Homepage: [ParshanPakiman.Github.io](https://parshanpakiman.github.io/)  
-- 🕒 Office Hours: Wednesday, 2:00 PM – 3:00 PM, and by appointment  
-  - 🔗 Virtual: [https://buffalo.zoom.us/my/pakiman.office.hours](https://buffalo.zoom.us/my/pakiman.office.hours)  
-  - 🏢 In-Person: 343 Jacobs Management Center
+- 🕒 Office Hours:  Wednesday, 2:00 PM – 3:00 PM, and by appointment  
+  - 🏢 In-Person:   343 Jacobs Management Center
+  - 🔗 Virtual:     [https://buffalo.zoom.us/my/pakiman.office.hours](https://buffalo.zoom.us/my/pakiman.office.hours)  
 
-## 🧑‍🏫 Student/Teaching Assistant
-**Grace Zhang**  
+
+## 🧑‍🏫 Teaching Assistant
+**Mingyuan Yuan**  
 Doctoral Student, Operations Management and Strategy  
-- 📧 Email: [luxinzha@buffalo.edu](mailto:luxinzha@buffalo.edu)
-- 🕒 Office Hours: 
-  - By appointment
-  - 🔗 Virtual: []()
+- 📧 Email: [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)
+- 🕒 Office Hours:  Only by appointment
+  - 🔗 Virtual:     [ https://buffalo.zoom.us/j/98969375035](https://buffalo.zoom.us/j/98969375035)
+
 
 ## 📌 Logistics
 - 🗓️ **Semester**: Fall 2026 ([UB calendar](https://www.buffalo.edu/registrar/calendars/current-academic-calendar.html))
@@ -94,7 +96,7 @@ By the end of the semester, students will be able to:
 ## 📘 Prerequisite or Co-requisite
 - **Prerequisite:** MGQ 201  
 - **Co-requisite:** Completion of or concurrent enrollment in MGG 102 or MGG 150  
-
+- **Important:** Students are responsible for reviewing the material in the [Mathematical & Statistical Refresher](https://github.com/parshanpakiman/UB-F26-Math-Stats-Refresher). The basic tools covered in this refresher are considered prerequisite knowledge and may not be reviewed in class.
 
 ## 💻 Learning Platforms and Technology
 
@@ -113,7 +115,7 @@ By the end of the semester, students will be able to:
 
 ### Microsoft Excel
 
-- Microsoft Excel may be used for selected Homework Assignments.
+- Microsoft Excel may be used for selected homework assignments.
 - Students are expected to have Excel installed and to be comfortable with basic spreadsheet operations, formulas, tables, and charts.
 - Students who need additional practice should review the official [Microsoft Excel Help and Learning](https://support.microsoft.com/en-us/excel/) resources before completing Excel-based assignments.
 - Students are also encouraged to review this [introductory Excel tutorial](https://youtu.be/rro5t8eHXaY?si=NQKcZE0aYiWwZg27) to familiarize themselves with the software.
@@ -125,24 +127,11 @@ Generative AI tools such as ChatGPT, Claude, and Gemini may be used to support l
 
 ✅ Permitted uses include clarifying course concepts or terminology, brainstorming ideas or alternative approaches, generating additional practice problems, and improving the clarity, grammar, or formatting of your own writing. 
 
-🚫 AI may not be used to complete homework, in-class group activities, or exams unless the instructor explicitly authorizes its use for a particular activity., to generate solutions that you do not understand, or to produce work that is submitted as your own. Students should always attempt the work independently before consulting AI, use AI for specific questions rather than asking it to complete an assignment, and include a brief *AI Use Statement* whenever an AI tool contributes to a submission—for example, “I used ChatGPT to clarify the definition of the EOQ formula.” 
+🚫 AI may not be used to complete homework, in-class group activities, or exams unless the instructor explicitly authorizes its use for a particular activity. AI also may not be used to generate solutions that you do not understand or to produce work that is submitted as your own. Students should always attempt the work independently before consulting AI, use AI for specific questions rather than asking it to complete an assignment, and include a brief *AI Use Statement* whenever an AI tool contributes to a submission—for example, “I used ChatGPT to clarify the definition of the EOQ formula.” 
 
 ⚠️ Misrepresenting AI-generated work as your own may constitute academic misconduct. Submitted work may be reviewed using originality or AI-detection tools available through UB. Detection results are indicators only and will not, by themselves, establish an academic-integrity violation; any concern will be considered together with other relevant evidence and addressed through UB’s academic-integrity procedures. 
 
 > Additional guidance is available on the [UB Academic Integrity – Artificial Intelligence](https://www.buffalo.edu/academic-integrity/about/artificial-intelligence.html) page.
-
-### 📢 Student Responsibilities
-
-1. **Attend** class prepared to participate in discussions, polls, and other In-Class Activities.
-2. **Ensure** that you can access **UB Learns**, your **UB email**, **Zoom**, and **Microsoft Excel** from the beginning of the semester.
-3. **Check** UB Learns and your UB email regularly for announcements, course updates, assignments, grades, and feedback.
-4. **Review** and update your [UB Alert contact information](https://emergency.buffalo.edu/sign_up.html) through the HUB Student Center.
-5. **Install** Microsoft Excel and become familiar with its features prior to the first week of the class.
-6. **Complete** assigned readings and review course materials before class.
-7. **Submit** all work in the required format and by the stated deadline.
-8. **Follow** the course policies regarding academic integrity, collaboration, and generative AI.
-9. **Do not eat** food during class sessions.
-10. **Include** “MGO-303” in the subject line of all course-related emails.
 
 
 ## 🧾 Academic Integrity
@@ -172,29 +161,42 @@ Students are responsible for understanding and following UB’s academic-integri
 - 🧠 **Mental Health**: Counseling (716-645-2720), Health Services (716-829-3316), Health Promotion (716-645-2837)
 
 
+## 📢 Student Responsibilities
+
+1. **Attend** class prepared to participate in discussions, polls, and other in-class activities.
+2. **Ensure** that you can access **UB Learns**, your **UB email**, **Zoom**, and **Microsoft Excel** from the beginning of the semester.
+3. **Check** UB Learns and your UB email regularly for announcements, course updates, assignments, grades, and feedback.
+4. **Review** and update your [UB Alert contact information](https://emergency.buffalo.edu/sign_up.html) through the HUB Student Center.
+5. **Install** Microsoft Excel and become familiar with its basic features before the first week of class.
+6. **Review** the material in the [Mathematical & Statistical Refresher](https://github.com/parshanpakiman/UB-F26-Math-Stats-Refresher), as the concepts and skills covered there are essential for success in this course.
+7. **Complete** assigned readings and review course materials before class.
+8. **Submit** all work in the required format and by the stated deadline.
+9. **Follow** the course policies regarding academic integrity, collaboration, and generative AI.
+10. **Do not eat** food during class sessions.
+11. **Include** “MGO 302” in the subject line of all course-related emails.
+
+
+
 ## 📊 Grading Components
 
 Your final course grade will be based on the following components:
 
-| Component | Weight |
-|-----------|-------:|
-| In-Class Activities  (lowest 4 dropped) | **15%** |
-| Homework Assignments (lowest 1 dropped) | **20%** |
-| Midterm 1 | **15%**  |
-| Midterm 2 | **15%**  |
-| Final Exam | **35%** |
-| **Total** | **100%** |
+| Component | Frequency | Weight |
+|---|---|---|
+| In-Class Activities (lowest 4 scores dropped) | Most Class Sessions | **15%** |
+| Homework Assignments (lowest 2 score dropped) | Nearly Every Other Week | **20%** |
+| Midterm 1 | Once | **15%** |
+| Midterm 2 | Once | **15%** |
+| Final Exam | Once | **35%** |
+| **Total** |  | **100%** |
 
+---
 
 ### 1. In-Class Activities (15%)
 
 Throughout the semester, typically during most class sessions, students will complete short polls, submit responses through UB-supported links, and participate in other learning activities designed to reinforce key concepts and promote active engagement.
 
-  > ⚠️ **In-Class Activity Policy**  
-
-  > 🚫 In-class activities must be completed during the class session and cannot be completed afterward. A missed activity will therefore receive a zero.
-  
-  > ✅ To provide flexibility for occasional absences or unexpected circumstances, the **four lowest in-class activity grades will be dropped** when calculating this portion of the final grade.
+> ⚠️ **In-Class Activity Policy:** In-class activities **must be completed during the class session** and cannot be completed afterward. A missed activity will therefore receive a zero. To provide flexibility for occasional absences or unexpected circumstances, the **four lowest in-class activity grades will be dropped** when calculating this portion of the final grade.
 
 ---
 
@@ -202,11 +204,7 @@ Throughout the semester, typically during most class sessions, students will com
 
 There will be **six homework assignments**.
 
-> 🚫 **Late submissions and extensions are not permitted.** The submission link will automatically close at the deadline, and any missed assignment will receive a grade of zero.
-
-> ✅ To provide flexibility for unexpected circumstances, the **two lowest homework grades will be dropped**. Only the **four highest homework grades** will count toward the final course grade.
-
-Because the two lowest homework grades are dropped, this policy applies to all missed or late homework submissions, regardless of the reason.
+> ⚠️ **Homework Assignment Policy:**  Late submissions and extensions are **not permitted**. The submission link will automatically close at the deadline, and any missed assignment will receive a grade of zero. To provide flexibility for unexpected circumstances, the **two lowest homework grades will be dropped**. Only the **four highest homework grades** will count toward the final course grade. Because the two lowest homework grades are dropped, this policy applies to all missed or late homework submissions, regardless of the reason.
 
 - Homework must be submitted through **UB Learns** by **11:00 PM** on the posted due date.
 - Assignments must be submitted in **PDF format**, unless otherwise specified.
@@ -216,69 +214,47 @@ Because the two lowest homework grades are dropped, this policy applies to all m
 
 ### 3. Midterm 1 (15%)
 
-Midterm 1 assesses the first course module, including:
+Midterm 1 assesses the first course module. Please see [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage) for the topic of Midterm 1. The exam may include multiple-choice questions, calculations, problem-solving questions, and short written responses.
 
-- Introduction to Operations Management
-- Process analysis
-- Capacity and bottleneck analysis
-- Little's Law
-- Labor cost analysis
-- Process improvement
-- Quality management
-
-The exam may include multiple-choice questions, calculations, problem-solving questions, and short written responses.
-
-- **Date:** Friday, **October 9, 2026**
-- **MGO 302LEC-F5O (21689):** 11:00–11:50 AM (Knox Lecture Hall 14)
-- **MGO 302LEC-F2O (20418):** 12:00–12:50 PM (Natural Sciences Complex 205)
+> ⚠️ **Midterm 1 Policy:**
+> - **Date:** Friday, **October 9, 2026**
+> - **MGO 302LEC-F5O (21689):** 11:00–11:50 AM (Knox Lecture Hall 14)
+> - **MGO 302LEC-F2O (20418):** 12:00–12:50 PM (Natural Sciences Complex 205)
+>
+> ⚠️ **Make-up exams:** A make-up exam may be granted for a documented medical emergency, university-approved absence, religious conflict, or other unavoidable circumstance approved by the instructor. Students should notify the instructor as early as reasonably possible.
 
 ---
 
 ### 4. Midterm 2 (15%)
 
-Midterm 2 assesses material covered from Variability and Queueing through Newsvendor and Managerial Levers, including:
+Midterm 2 assesses the second course module. Please see [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage) for the topic of Midterm 2. The exam may include multiple-choice questions, calculations, problem-solving questions, and short written responses.
 
-- Variability and queueing
-- Setup times and batching
-- Economic Order Quantity (EOQ)
-- Demand uncertainty
-- Newsvendor model
-- Managerial levers
-
-The exam may include multiple-choice questions, calculations, problem-solving questions, and short written responses.
-
-- **Date:** Monday, **November 2, 2026**
-- **MGO 302LEC-F5O (21689):** 11:00–11:50 AM (Knox Lecture Hall 14)
-- **MGO 302LEC-F2O (20418):** 12:00–12:50 PM (Natural Sciences Complex 205)
+> ⚠️ **Midterm 2 Policy:**
+> - **Date:** Monday, **November 2, 2026**
+> - **MGO 302LEC-F5O (21689):** 11:00–11:50 AM (Knox Lecture Hall 14)
+> - **MGO 302LEC-F2O (20418):** 12:00–12:50 PM (Natural Sciences Complex 205)
+>
+> ⚠️ **Make-up exams:** A make-up exam may be granted for a documented medical emergency, university-approved absence, religious conflict, or other unavoidable circumstance approved by the instructor. Students should notify the instructor as early as reasonably possible.
 
 ---
 
-### 5. Final Exam (30%)
+### 5. Final Exam (35%)
 
-The final exam is comprehensive, with greater emphasis on forecasting and project management. Students remain responsible for foundational concepts from the first two course modules.
+The final exam is comprehensive, with greater emphasis on the final course module. Students remain responsible for foundational concepts from the first two course modules. Please see [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage) for additional details.
 
-- Forecasting methods
-- Forecast accuracy
-- Trend and seasonality
-- Project management
-- Network diagrams
-- Critical path analysis
-- Forward and backward passes
-- Slack analysis
-
-The exam may include multiple-choice questions, calculations, problem-solving questions, and short written responses.
-
-- **Date:** Friday, **December 11, 2026**
-- **Time:** **11:45 AM–2:45 PM**
-- **Location:** **Knox 109**
-- Both sections of **MGO 302** will take the final examination together, according to the schedule established by UB’s centralized examination system.
+> ⚠️ **Final Exam Policy:** According to the schedule established by UB’s centralized examination system, both sections of **MGO 302** will take the final examination together at the date, time, and location assigned by the University, unless the University subsequently changes the examination schedule or location.
+> - **Date:** Friday, **December 11, 2026**
+> - **Time:** **11:45 AM–2:45 PM**
+> - **Location:** **Knox 109**
+>
+> ⚠️ **Make-up exams:** Make-up final examinations are not ordinarily offered. Exceptions may be made for an official examination conflict or approved accessibility accommodation. Students must notify the instructor as early as reasonably possible and provide any required documentation.
 
 ---
  
 
 ## 🎓 Letter Grade Scale
 
-This course uses a **fixed grading scale**. **Grades are not curved.** Your letter grade depends solely on the percentage you earn throughout the semester and is **not** affected by the performance of other students.
+Final course percentages will be reported to one decimal place. A percentage below a letter-grade threshold will not be rounded up to that threshold. This course uses the following **fixed grading threshold rule:**
 
 | Letter Grade | Final Percentage |
 |:-------------|:----------------:|
@@ -294,75 +270,51 @@ This course uses a **fixed grading scale**. **Grades are not curved.** Your lett
 | **D**  | **60–66.9** |
 | **F**  | **Below 60** |
 
-> ⚠️ Final percentages will be calculated to one decimal place. Grades will not be rounded to the next letter-grade threshold.
-
-**Example**
-
-If a student earns:
-
-- Participation: **95**
-- In-Class Group Activities: **90**
-- Homework: **88**
+**Example:** If a student earns:
+- In-Class Activities: **95**
+- Homework Assignments: **88**
 - Midterm 1: **82**
 - Midterm 2: **86**
 - Final Exam: **91**
 
-Then the final percentage is: (95 × 10%) + (90 × 10%) + (88 × 20%) + (82 × 15%) + (86 × 15%) + (91 × 30%) = **88.6%**
-The resulting percentage corresponds to a letter grade of **B+**.
-
-
-> ⚠️ **Make-up exams:** A make-up exam may be granted for a documented medical emergency, university-approved absence, religious conflict, or other unavoidable circumstance approved by the instructor. Students should notify the instructor as early as reasonably possible.
+Then the final percentage is: **(95 × 15%) + (88 × 20%) + (82 × 15%) + (86 × 15%) + (91 × 35%) = 88.9%**. The resulting percentage corresponds to a letter grade of **B+**.
 
 
 ## 📅 Course Schedule
 
-**Legend:** 🟨 HW Released 🟩 HW Due 🟧 Review 🟥 Exam 🟪 Break
+**Legend:** 🟢 HW Due 🟧 Review 🟥 Exam 🟣 Break 🔵 Prerequisite Review
 
 | Week | Dates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Weekly Topic | Reading Assignment | Monday | Wednesday | Friday |
 |------|-------|--------------|--------------------|--------|-----------|--------|
-| **1** | **Aug 24<br>Aug 28** | Introduction to OM | Chapter 1 (pp. 1–9) | — | — | — |
-| **2** | **Aug 31<br>Sep 04** | Process Analysis & Little's Law | Chapters 2–3 (pp. 10–19; 32–44) | — | 🟨 HW1 Released | — |
-| **3** | **Sep 07<br>Sep 11** | Process Analysis Continued | Chapters 2–3 (pp. 10–19; 32–44) | 🟪 Labor Day — No Class | — | 🟩 HW1 Due |
-| **4** | **Sep 14<br>Sep 18** | Process Improvement & Labor Cost Analysis | Chapter 4 (pp. 56–80) | — | 🟨 HW2 Released | — |
-| **5** | **Sep 21<br>Sep 25** | Quality Management | Chapter 7 (pp. 128–135; 138–149) | — | — | 🟩 HW2 Due |
-| **6** | **Sep 28<br>Oct 02** | Variability in Processes | Sections 9.1–9.5 (pp. 171–183) | — | 🟨 HW3 Released | — |
-| **7** | **Oct 05<br>Oct 09** | Variability Continued; Midterm 1 | Sections 9.6–9.10 (pp. 184–190; 194–202) | — | 🟧 Midterm 1 Review | 🟥 Midterm 1 |
-| **8** | **Oct 12<br>Oct 16** | Setup Times, Batching & EOQ | Chapter 5 (pp. 81–110) | 🟪 Fall Break — No Class | — | — |
-| **9** | **Oct 19<br>Oct 23** | Multi-Product EOQ & Newsvendor | Multi-Product EOQ (slides); Chapter 14 (pp. 293–296; 307–312) | — | — | 🟩 HW3 Due<br>🟨 HW4 Released |
-| **10** | **Oct 26<br>Oct 30** | Newsvendor & Managerial Levers | Chapter 14 (pp. 296–302; p. 314); Chapter 15 (pp. 326–335) | — | 🟩 HW4 Due | 🟧 Midterm 2 Review |
-| **11** | **Nov 02<br>Nov 06** | Forecasting Fundamentals | Chapter 13 (pp. 264–281) | 🟥 Midterm 2 | — | 🟨 HW5 Released |
-| **12** | **Nov 09<br>Nov 13** | Forecast Accuracy & Trend Forecasting | Chapter 13 (pp. 282–287) | — | — | — |
-| **13** | **Nov 16<br>Nov 20** | Seasonality & Introduction to Project Management | Chapter 13 (pp. 282–287); Chapter 12 | — | — | 🟨 HW6 Released |
-| **14** | **Nov 23<br>Nov 27** | Project Management | Chapter 12 | — | 🟪 Thanksgiving Break — No Class | 🟪 Thanksgiving Break — No Class |
-| **15** | **Nov 30<br>Dec 04** | Project Management Continued | Chapter 12 | — | 🟩 HW5 Due | — |
-| **16** | **Dec 07<br>** | Course Review & Exam Preparation | Course review; last day of classes | 🟩 HW6 Due | — | — |
-| **17** | **Dec 11<br>** | 🟥 Final Exam | — | **11:45 AM–2:45 PM,<br>Knox 109** | — | — |
+| **1** | **Aug 24<br>Aug 28** | Intro to OM | Chapter 1 (pp. 1–9);<br>🔵 Prerequisite Review: Section 1–5 | — | — | — |
+| **2** | **Aug 31<br>Sep 04** | Process Analysis | Chapters 2–3 (pp. 10–19; 32–44) | — | — | — |
+| **3** | **Sep 07<br>Sep 11** | Process Analysis;<br>Little's Law | Chapters 2–3 (pp. 10–19; 32–44) | 🟣 Labor Day — No Class | — | 🟢 HW1 Due |
+| **4** | **Sep 14<br>Sep 18** | Labor Cost Analysis | Chapter 4 (pp. 56–80);<br>🔵 Prerequisite Review: Section 6–9 | — | — | — |
+| **5** | **Sep 21<br>Sep 25** | Quality Management | Chapter 7 (pp. 128–135; 138–149) | — | — | 🟢 HW2 Due |
+| **6** | **Sep 28<br>Oct 02** | Variability in Processes | Section 9.1–9.5 (pp. 171–183);<br>🔵 Prerequisite Review: Section 10–11 | — | — | — |
+| **7** | **Oct 05<br>Oct 09** | Variability in Processes | Section 9.6–9.10 (pp. 184–190; 194–202) | — | 🟧 Midterm 1 Review | 🟥 Midterm 1 |
+| **8** | **Oct 12<br>Oct 16** | Setup Times, Batching, EOQ | Chapter 5 (pp. 81–110) | 🟣 Fall Break — No Class | — | — |
+| **9** | **Oct 19<br>Oct 23** | EOQ & Newsvendor | Chapter 14 (pp. 293–296; 307–312);<br>🔵 Prerequisite Review: Section 12–15 | — | — | 🟢 HW3 Due |
+| **10** | **Oct 26<br>Oct 30** | Newsvendor & Managerial Levers | Chapter 14 (pp. 296–302; p. 314);<br>Chapter 15 (pp. 326–335) | — | 🟢 HW4 Due | 🟧 Midterm 2 Review |
+| **11** | **Nov 02<br>Nov 06** | Forecasting | Chapter 13 (pp. 264–281);<br>🔵 Prerequisite Review: Section 16–19 | 🟥 Midterm 2 | — | — |
+| **12** | **Nov 09<br>Nov 13** | Forecasting Trend and Seasonality | Chapter 13 (pp. 282–287) | — | — | — |
+| **13** | **Nov 16<br>Nov 20** | Project Management | Chapter 13 (pp. 282–287);<br>Chapter 12 | — | — | — |
+| **14** | **Nov 23<br>Nov 27** | Project Management | Chapter 12 | — | 🟣 Thanksgiving Break — No Class | 🟣 Thanksgiving Break — No Class |
+| **15** | **Nov 30<br>Dec 04** | AI in Operations Management | Chapter 12 | — | 🟢 HW5 Due | — |
+| **16** | **Dec 07<br>** | Course Review & Exam Preparation | Course review; last day of classes;<br>🔵 Prerequisite Review: Part IV | 🟧 Final Exam Review<br>🟢 HW6 Due | — | — |
+| **17** | **Dec 11<br>** | Final Exam Week | — | — | — | 🟥 **Final Exam:<br> 11:45 AM–2:45 PM,<br> Knox 109** |
 
-> ⚠️ Students are required to complete the assigned textbook readings before class so they can participate meaningfully in class discussions, in-class group activities, and course assignments.
-
----
-
-## 📝 Homework Topics
-
-| Assignment | Topics | Released | Due |
-|------------|--------|----------|-----|
-| **HW1** | Process analysis, capacity, bottlenecks, and Little’s Law | **Sep 02** | **Sep 11** |
-| **HW2** | Labor analysis, process improvement, and quality management | **Sep 16** | **Sep 25** |
-| **HW3** | Variability, queueing, setup times, batching, and EOQ | **Sep 30** | **Oct 23** |
-| **HW4** | Short applied assignment on multi-product EOQ and Newsvendor | **Oct 23** | **Oct 28** |
-| **HW5** | Forecasting fundamentals, forecast accuracy, and trend forecasting | **Nov 06** | **Dec 02** |
-| **HW6** | Seasonality and project management | **Nov 20** | **Dec 07** |
+> 🔵 **Mathematical & Statistical Refresher:** Please review the corresponding refresher sections before the weeks in which those quantitative tools are first used in class. The refresher is available at [UB-F26-Math-Stats-Refresher](https://github.com/parshanpakiman/UB-F26-Math-Stats-Refresher).
 
 
----
 
 ## 🟥 Exam Dates and Coverage
 
 | Assessment | Course Section(s) | Date | Time and Room | Coverage |
 |------------|-------------------|------|---------------|----------|
-| **Midterm 1** | Both MGO 302 sections | **Friday, Oct. 9, 2026** | Regular class time and classroom | Introduction to OM, process analysis, capacity, bottlenecks, Little’s Law, labor analysis, process improvement, and quality management |
-| **Midterm 2** | Both MGO 302 sections | **Monday, Nov. 2, 2026** | Regular class time and classroom | Variability and queueing through Newsvendor and managerial levers |
-| **Final Exam** | Both MGO 302 sections | **Friday, Dec. 11, 2026** | **11:45 AM–2:45 PM, Knox 109** | Comprehensive, with greater emphasis on forecasting and project management |
+| **Midterm 1** | Both MGO 302 sections | **Friday, Oct. 9, 2026** | Regular class time and classroom | **Week 1-5:** Introduction to OM, process analysis, Little’s Law, labor cost analysis, and quality management |
+| **Midterm 2** | Both MGO 302 sections | **Monday, Nov. 2, 2026** | Regular class time and classroom | **Week 6-9:** Variability, Batching, EOQ |
+| **Final Exam** | Both MGO 302 sections | **Friday, Dec. 11, 2026** | **11:45 AM–2:45 PM, Knox 109** | **Week 1-14:** Greater emphasis on newsvendor, forecasting, and project management |
 
 ---
 
