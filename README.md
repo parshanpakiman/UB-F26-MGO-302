@@ -177,35 +177,38 @@ Students are responsible for understanding and following UB’s academic-integri
 
 ## 📊 Grading Components
 
-Your final course grade will be based on the following components:
-
-| Component | Frequency | Weight |
-|---|---|---|
-| In-Class Activities (lowest 4 scores dropped) | Most Class Sessions | **15%** |
-| Homework Assignments (lowest 2 score dropped) | Nearly Every Other Week | **20%** |
-| Midterm 1 | Once | **15%** |
-| Midterm 2 | Once | **15%** |
-| Final Exam | Once | **35%** |
-| **Total** |  | **100%** |
+| Component | Weight |
+|-----------|-------:|
+| Participation (via Top Hat) | **10%** |
+| In-Class Activities (lowest 3 dropped) | **10%** |
+| Homework Assignments (lowest 2 dropped) | **20%** |
+| Midterm Exam (covers Weeks 1–7) | **30%** |
+| Final Exam (Cumulative, with greater emphasis on Weeks 8–15) | **30%** |
+| **Total** | **100%** |
 
 ---
 
-### 1. In-Class Activities (15%)
+### 1. Participation (10%):
 
-Throughout the semester, typically during most class sessions, students will complete short polls, submit responses through UB-supported links, and participate in other learning activities designed to reinforce key concepts and promote active engagement.
+Participation is recorded through **Top Hat** using its in-class location verification. Students who are physically present in the classroom will receive participation points; students responding from outside the classroom will not receive credit. This category is separate from scores earned on individual in-class activities.
 
-> ⚠️ **In-Class Activity Policy:** In-class activities **must be completed during the class session** and cannot be completed afterward. A missed activity will therefore receive a zero. To provide flexibility for occasional absences or unexpected circumstances, the **four lowest in-class activity grades will be dropped** when calculating this portion of the final grade.
+### 2. In-Class Activities (10%):
+
+During class sessions, the instructor may pose quick questions, polls, or similar activities related to the material being discussed. Students will be given time to think through each question and, when permitted, discuss it with their classmates before submitting an individual response through **UB Learns**. These activities are designed to reinforce key concepts and promote active engagement with the course material.
+
+> ⚠️ **In-Class Activity Policy:** In-class activities **must be completed during the class session** and cannot be completed afterward. A missed activity will therefore receive a zero. To provide flexibility for occasional absences or unexpected circumstances, the **three lowest in-class activity grades will be dropped** when calculating this portion of the final grade.
+
 
 ---
 
-### 2. Homework Assignments (20%)
+### 3. Homework Assignments (20%)
 
-There will be **six homework assignments**.
+There will be **six homework assignments**. Assignments are due through **UB Learns by 11:59 PM** on the specified due date.
 
 > ⚠️ **Homework Assignment Policy:**  Late submissions and extensions are **not permitted**. The submission link will automatically close at the deadline, and any missed assignment will receive a grade of zero. To provide flexibility for unexpected circumstances, the **two lowest homework grades will be dropped**. Only the **four highest homework grades** will count toward the final course grade. Because the two lowest homework grades are dropped, this policy applies to all missed or late homework submissions, regardless of the reason.
 
 
-- Homework must be submitted through **UB Learns** by **11:00 PM** on the posted due date.
+- Homework must be submitted through **UB Learns** by **11:59 PM** on the posted due date.
 - Submit all homework as **a single PDF file** through **UB Learns**.
 - Clearly label each question and organize your answers in the same order as the assignment.
 - Students are expected to clearly **show all work** to receive full or partial credit.
@@ -214,12 +217,12 @@ There will be **six homework assignments**.
 
 ---
 
-### 3. Midterm 1 (15%)
+### 4. Midterm Exam (30%)
 
-Midterm 1 assesses the first course module. Please see [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage) for the topic of Midterm 1. The exam may include multiple-choice questions, calculations, problem-solving questions, and short written responses.
+The midterm exam assesses the first course module. Please see [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage) for the topics covered. The exam may include multiple-choice questions, calculations, problem-solving questions, and short written responses.
 
-> ⚠️ **Midterm 1 Policy:**
-> - **Date:** Friday, **October 9, 2026**
+> ⚠️ **Midterm Exam Policy:**
+> - **Date:** Monday, **October 19, 2026**
 > - **MGO 302LEC-F5O (21689):** 11:00–11:50 AM (Knox Lecture Hall 14)
 > - **MGO 302LEC-F2O (20418):** 12:00–12:50 PM (Natural Sciences Complex 205)
 >
@@ -227,20 +230,7 @@ Midterm 1 assesses the first course module. Please see [🟥 Exam Dates and Cove
 
 ---
 
-### 4. Midterm 2 (15%)
-
-Midterm 2 assesses the second course module. Please see [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage) for the topic of Midterm 2. The exam may include multiple-choice questions, calculations, problem-solving questions, and short written responses.
-
-> ⚠️ **Midterm 2 Policy:**
-> - **Date:** Monday, **November 2, 2026**
-> - **MGO 302LEC-F5O (21689):** 11:00–11:50 AM (Knox Lecture Hall 14)
-> - **MGO 302LEC-F2O (20418):** 12:00–12:50 PM (Natural Sciences Complex 205)
->
-> ⚠️ **Make-up exams:** A make-up exam may be granted for a documented medical emergency, university-approved absence, religious conflict, or other unavoidable circumstance approved by the instructor. Students should notify the instructor as early as reasonably possible.
-
----
-
-### 5. Final Exam (35%)
+### 5. Final Exam (30%)
 
 The final exam is comprehensive, with greater emphasis on the final course module. Students remain responsible for foundational concepts from the first two course modules. Please see [🟥 Exam Dates and Coverage](#-exam-dates-and-coverage) for additional details.
 
@@ -258,6 +248,7 @@ The final exam is comprehensive, with greater emphasis on the final course modul
 
 Final course percentages will be reported to one decimal place. A percentage below a letter-grade threshold will not be rounded up to that threshold. This course uses the following **fixed grading threshold rule:**
 
+
 | Letter Grade | Final Percentage |
 |:-------------|:----------------:|
 | **A**  | **93–100** |
@@ -273,18 +264,18 @@ Final course percentages will be reported to one decimal place. A percentage bel
 | **F**  | **Below 60** |
 
 **Example:** If a student earns:
+- Participation: **95**
 - In-Class Activities: **95**
 - Homework Assignments: **88**
-- Midterm 1: **82**
-- Midterm 2: **86**
+- Midterm Exam: **84**
 - Final Exam: **91**
 
-Then the final percentage is: **(95 × 15%) + (88 × 20%) + (82 × 15%) + (86 × 15%) + (91 × 35%) = 88.9%**. The resulting percentage corresponds to a letter grade of **B+**.
+Then the final percentage is: **(95 × 10%) + (95 × 10%) + (88 × 20%) + (84 × 30%) + (91 × 30%) = 89.1%**. The resulting percentage corresponds to a letter grade of **B+**.
 
 
 ## 📅 Course Schedule
 
-**Legend:** 🟢 HW Due 🟧 Review 🟥 Exam 🟣 Break 🔵 Refresher
+**Legend:** 🟢 HW Due 🟧 Review 🟥 Exam ⚫ Asynchronous Lecture 🟣 Break 🔵 Refresher
 
 | Week | Dates&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Weekly Topic | Reading Assignment | Monday | Wednesday | Friday |
 |------|-------|--------------|--------------------|--------|-----------|--------|
@@ -294,16 +285,16 @@ Then the final percentage is: **(95 × 15%) + (88 × 20%) + (82 × 15%) + (86 ×
 | **4** | **Sep 14<br>Sep 18** | **Managing Capacity:**<br>Labor Cost Analysis & Process Improvement | Chapter 4 (pp. 56–80);<br>🔵 Refresher: Section 6–9 | — | — | — |
 | **5** | **Sep 21<br>Sep 25** | **Managing Quality:**<br>Process Variation & Quality Control | Chapter 7 (pp. 128–135; 138–149) | — | — | 🟢 HW2 Due |
 | **6** | **Sep 28<br>Oct 02** | **Managing Uncertainty in Processes:**<br>Variability & Waiting | Section 9.1–9.5 (pp. 171–183);<br>🔵 Refresher: Section 10–11 | — | — | — |
-| **7** | **Oct 05<br>Oct 09** | **Managing Congestion:**<br>Queueing, Capacity & Responsiveness | Section 9.6–9.10 (pp. 184–190; 194–202) | — | 🟧 Midterm 1 Review | 🟥 Midterm 1 |
-| **8** | **Oct 12<br>Oct 16** | **Using Inventory to Match Supply with Demand:**<br>Setup Times, Batching & EOQ | Chapter 5 (pp. 81–110) | 🟣 Fall Break — No Class | — | — |
-| **9** | **Oct 19<br>Oct 23** | **Inventory Decisions:**<br>EOQ & Introduction to Demand Uncertainty | Chapter 14 (pp. 293–296; 307–312);<br>🔵 Refresher: Section 12–15 | — | — | 🟢 HW3 Due |
-| **10** | **Oct 26<br>Oct 30** | **Matching Inventory with Uncertain Demand:**<br>Newsvendor & Managerial Levers | Chapter 14 (pp. 296–302; p. 314);<br>Chapter 15 (pp. 326–335) | — | 🟢 HW4 Due | 🟧 Midterm 2 Review |
-| **11** | **Nov 02<br>Nov 06** | **Predicting Demand:**<br>Forecasting Fundamentals | Chapter 13 (pp. 264–281);<br>🔵 Refresher: Section 16–19 | 🟥 Midterm 2 | — | — |
-| **12** | **Nov 09<br>Nov 13** | **Improving Demand Forecasts:**<br>Trend & Seasonality | Chapter 13 (pp. 282–287) | — | — | — |
+| **7** | **Oct 05<br>Oct 09** | **Managing Congestion:**<br>Queueing, Capacity & Responsiveness | Section 9.6–9.10 (pp. 184–190; 194–202) | — | — | ⚫ No in-person class;<br>recorded lecture posted on UB Learns.<br>🟢 HW3 Due |
+| **8** | **Oct 12<br>Oct 16** | **Using Inventory to Match Supply with Demand:**<br>Setup Times & Batching | Chapter 5 (pp. 81–110) | 🟣 Fall Break — No Class | — | 🟧 Midterm Review |
+| **9** | **Oct 19<br>Oct 23** | **Inventory Decisions:**<br>EOQ & Introduction to Demand Uncertainty | Chapter 14 (pp. 293–296; 307–312);<br>🔵 Refresher: Section 12–15 | 🟥 Midterm Exam | — | — |
+| **10** | **Oct 26<br>Oct 30** | **Matching Inventory with Uncertain Demand:**<br>Newsvendor & Managerial Levers | Chapter 14 (pp. 296–302; p. 314);<br>Chapter 15 (pp. 326–335) | — | — | 🟢 HW4 Due |
+| **11** | **Nov 02<br>Nov 06** | **Predicting Demand:**<br>Forecasting Fundamentals | Chapter 13 (pp. 264–281);<br>🔵 Refresher: Section 16–19 | ⚫ No in-person class;<br>recorded lecture posted on UB Learns. | — | — |
+| **12** | **Nov 09<br>Nov 13** | **Improving Demand Forecasts:**<br>Trend & Seasonality | Chapter 13 (pp. 282–287) | — | — | 🟢 HW5 Due |
 | **13** | **Nov 16<br>Nov 20** | **Planning Future Operations:**<br>Project Management & Critical Paths | Chapter 13 (pp. 282–287);<br>Chapter 12 | — | — | — |
 | **14** | **Nov 23<br>Nov 27** | **Managing Project Capacity & Time:**<br>Project Scheduling | Chapter 12 | — | 🟣 Thanksgiving Break — No Class | 🟣 Thanksgiving Break — No Class |
-| **15** | **Nov 30<br>Dec 04** | **Extending the OM Toolkit:**<br>Emerging Topics in Operations Management | Chapter 12 | — | 🟢 HW5 Due | — |
-| **16** | **Dec 07<br>** | **Bringing It All Together:**<br>Matching Supply with Demand | Course review; last day of classes | 🟧 Final Exam Review<br>🟢 HW6 Due | — | — |
+| **15** | **Nov 30<br>Dec 04** | **Extending the OM Toolkit:**<br>Emerging Topics in Operations Management | Chapter 12 | — | — | 🟢 HW6 Due |
+| **16** | **Dec 07<br>** | **Bringing It All Together:**<br>Matching Supply with Demand | Course review; last day of classes | 🟧 Final Exam Review | — | — |
 | **17** | **Dec 11<br>** | **Final Exam Week** | — | — | — | 🟥 **Final Exam:<br>11:45 AM–2:45 PM,<br>Knox 109** |
 
 🔵 **Mathematical & Statistical Refresher:** Review the relevant sections at your own pace or according to the schedule above before those quantitative tools are used in class. Access the refresher at [⁠UB-F26-Math-Stats-Refresher](https://github.com/parshanpakiman/UB-F26-Math-Stats-Refresher).
@@ -314,8 +305,7 @@ Then the final percentage is: **(95 × 15%) + (88 × 20%) + (82 × 15%) + (86 ×
 
 | Assessment | Course Section(s) | Date | Time and Room | Coverage |
 |------------|-------------------|------|---------------|----------|
-| **Midterm 1** | Both MGO 302 sections | **Friday, Oct. 9, 2026** | Regular class time and classroom | **Week 1-5:** Introduction to OM, process analysis, Little’s Law, labor cost analysis, and quality management |
-| **Midterm 2** | Both MGO 302 sections | **Monday, Nov. 2, 2026** | Regular class time and classroom | **Week 6-9:** Variability, Batching, EOQ |
+| **Midterm Exam** | Both MGO 302 sections | **Monday, Oct. 19, 2026** | Regular class time and classroom | **Weeks 1–7:** Operations strategy, process analysis, Little’s Law, capacity and labor cost analysis, quality management, variability, waiting, and queueing |
 | **Final Exam** | Both MGO 302 sections | **Friday, Dec. 11, 2026** | **11:45 AM–2:45 PM, Knox 109** | **Week 1-14:** Greater emphasis on newsvendor, forecasting, and project management |
 
 ---
