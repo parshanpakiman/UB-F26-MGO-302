@@ -86,8 +86,6 @@ By the end of the semester, students will be able to:
 ## 📘 Textbook
 **Required Textbook:** Cachon, Gérard, and Christian Terwiesch. *Matching Supply with Demand: An Introduction to Operations Management*. 5th ed., McGraw Hill, 2023.
 
-**Required Textbook:**  Simpson, Natalie C., and Philip G. Hancock. *Practical Operations Management*. 2nd ed., Hercher Publishing, 2017.  
-
 **Notes:** Multiple purchase and rental options may be available. Students may choose the most cost-effective format, provided it is the required edition and includes the assigned chapters and pages.  
 
 
