@@ -285,7 +285,7 @@ Then the final percentage is: **(95 × 10%) + (95 × 10%) + (88 × 20%) + (84 ×
 | **4** | **Sep 14<br>Sep 18** | **Managing Capacity:**<br>Labor Cost Analysis & Process Improvement | Chapter 4 (pp. 56–80);<br>🔵 Refresher: Section 6–9 | — | — | — |
 | **5** | **Sep 21<br>Sep 25** | **Managing Quality:**<br>Process Variation & Quality Control | Chapter 7 (pp. 128–135) | — | — | 🟢 HW2 Due |
 | **6** | **Sep 28<br>Oct 02** | **Managing Quality & Managing Uncertainty:**<br>Variability & Waiting | Section 9.1–9.5 (pp. 138–149;  171–183);<br>🔵 Refresher: Section 10–11 | — | — | — |
-| **7** | **Oct 05<br>Oct 09** | **Managing Uncertainty:**<br>Queueing, Capacity & Responsiveness | Section 9.6–9.10 (pp. 184–190; 194–202) | — | — | ⚫ No in-person class;<br>recorded lecture posted on UB Learns.<br>🟢 HW3 Due |
+| **7** | **Oct 05<br>Oct 09** | **Managing Uncertainty:**<br>Queueing, Capacity & Responsiveness | Section 9.6–9.10 (pp. 184–190; 194–202) | — | — | ⚫ No in-person class. 🟢 HW3 Due |
 | **8** | **Oct 12<br>Oct 16** | **Using Inventory to Match Supply with Demand:**<br>Setup Times & Batching | Chapter 5 (pp. 81–110) | 🟣 Fall Break — No Class | — | 🟧 Midterm Review |
 | **9** | **Oct 19<br>Oct 23** | **Inventory Decisions:**<br>EOQ & Introduction to Demand Uncertainty | Chapter 14 (pp. 293–296; 307–312);<br>🔵 Refresher: Section 12–15 | 🟥 Midterm Exam | — | — |
 | **10** | **Oct 26<br>Oct 30** | **Matching Inventory with Uncertain Demand:**<br>Newsvendor & Managerial Levers | Chapter 14 (pp. 296–302; p. 314);<br>Chapter 15 (pp. 326–335) | — | — | 🟢 HW4 Due |
