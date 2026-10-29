@@ -288,8 +288,8 @@ Then the final percentage is: **(95 × 10%) + (95 × 10%) + (88 × 20%) + (84 ×
 | **7** | **Oct 05<br>Oct 09** | **Managing Uncertainty:**<br>Queueing, Capacity & Responsiveness | Section 9.6–9.10 (pp. 184–190; 194–202) | — | — | ⚫ No in-person class. 🟢 HW3 Due |
 | **8** | **Oct 12<br>Oct 16** | **Using Inventory to Match Supply with Demand:**<br>Setup Times & Batching | Chapter 5 (pp. 81–110) | 🟣 Fall Break — No Class | — | 🟧 Midterm Review |
 | **9** | **Oct 19<br>Oct 23** | **Inventory Decisions:**<br>EOQ & Introduction to Demand Uncertainty | Chapter 14 (pp. 293–296; 307–312);<br>🔵 Refresher: Section 12–15 | 🟥 Midterm Exam | — | — |
-| **10** | **Oct 26<br>Oct 30** | **Matching Inventory with Uncertain Demand:**<br>Newsvendor & Managerial Levers | Chapter 14 (pp. 296–302; p. 314);<br>Chapter 15 (pp. 326–335) | — | — | 🟢 HW4 Due |
-| **11** | **Nov 02<br>Nov 06** | **Predicting Demand:**<br>Forecasting Fundamentals | Chapter 13 (pp. 264–281);<br>🔵 Refresher: Section 16–19 | ⚫ No in-person class;<br>recorded lecture posted on UB Learns. | — | — |
+| **10** | **Oct 26<br>Oct 30** | **Matching Inventory with Uncertain Demand:**<br>Newsvendor Model | Chapter 14 (pp. 296–302; p. 314);<br>Chapter 15 (pp. 326–335) | — | — | 🟢 HW4 Due |
+| **11** | **Nov 02<br>Nov 06** | **Predicting Demand:**<br> Newsvendor's Managerial Levers and Forecasting Basics | Chapter 13 (pp. 264–281);<br>🔵 Refresher: Section 16–19 | ⚫ No in-person class. | — | — |
 | **12** | **Nov 09<br>Nov 13** | **Improving Demand Forecasts:**<br>Trend & Seasonality | Chapter 13 (pp. 282–287) | — | — | 🟢 HW5 Due |
 | **13** | **Nov 16<br>Nov 20** | **Planning Future Operations:**<br>Project Management & Critical Paths | Chapter 13 (pp. 282–287);<br>Chapter 12 | — | — | — |
 | **14** | **Nov 23<br>Nov 27** | **Managing Project Capacity & Time:**<br>Project Scheduling | Chapter 12 | — | 🟣 Thanksgiving Break — No Class | 🟣 Thanksgiving Break — No Class |
