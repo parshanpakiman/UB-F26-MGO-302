@@ -306,7 +306,7 @@ Then the final percentage is: **(95 × 10%) + (95 × 10%) + (88 × 20%) + (84 ×
 | Assessment | Course Section(s) | Date | Time and Room | Coverage |
 |------------|-------------------|------|---------------|----------|
 | **Midterm Exam** | Both MGO 302 sections | **Monday, Oct. 19, 2026** | Regular class time and classroom | **Weeks 1–7:** Operations strategy, process analysis, Little’s Law, capacity and labor cost analysis, quality management, variability, waiting, and queueing |
-| **Final Exam** | Both MGO 302 sections | **Friday, Dec. 11, 2026** | **11:45 AM–2:45 PM, Knox 109** | **Week 1-15:** Greater emphasis on newsvendor, forecasting, and project management |
+| **Final Exam** | Both MGO 302 sections | **Friday, Dec. 11, 2026** | **11:45 AM–2:45 PM, Knox 109** | **Week 8-15:** Greater emphasis on newsvendor, forecasting, and project management |
 
 ---
 
