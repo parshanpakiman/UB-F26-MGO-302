@@ -293,7 +293,7 @@ Then the final percentage is: **(95 × 10%) + (95 × 10%) + (88 × 20%) + (84 ×
 | **12** | **Nov 09<br>Nov 13** | **Improving Demand Forecasts:**<br>Trend & Seasonality | Chapter 13 (pp. 282–287) | — | — | 🟢 HW5 Due |
 | **13** | **Nov 16<br>Nov 20** | **Planning Future Operations:**<br>Project Management & Critical Paths | Chapter 13 (pp. 282–287);<br>Chapter 12 | — | — | — |
 | **14** | **Nov 23<br>Nov 27** | **Managing Project Capacity & Time:**<br>Project Scheduling | Chapter 12 | — | 🟣 Thanksgiving Break — No Class | 🟣 Thanksgiving Break — No Class |
-| **15** | **Nov 30<br>Dec 04** | **Revenue Management:**<br>Pricing, Booking limit, and Overbooking | Chapter 18 | Chapter 12 | — | — | 🟢 HW6 Due |
+| **15** | **Nov 30<br>Dec 04** | **Revenue Management:**<br>Pricing, Booking limit, and Overbooking | Chapter 18 | — | — | 🟢 HW6 Due |
 | **16** | **Dec 07<br>** | **Bringing It All Together:**<br>Matching Supply with Demand | Course review; last day of classes | 🟧 Final Exam Review | — | — |
 | **17** | **Dec 11<br>** | **Final Exam Week** | — | — | — | 🟥 **Final Exam:<br>11:45 AM–2:45 PM,<br>Knox 109** |
 
